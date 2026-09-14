@@ -1,0 +1,8 @@
+1:"$Sreact.fragment"
+2:I[62319,["/zxr-blog.github.io/_next/static/chunks/17r9obcdvzia_.js","/zxr-blog.github.io/_next/static/chunks/0dsxp12~aigx8.js","/zxr-blog.github.io/_next/static/chunks/00-csyj9a6t-x.js","/zxr-blog.github.io/_next/static/chunks/13ku-_cxx5xux.js"],"default"]
+3:I[66357,["/zxr-blog.github.io/_next/static/chunks/17r9obcdvzia_.js","/zxr-blog.github.io/_next/static/chunks/0dsxp12~aigx8.js","/zxr-blog.github.io/_next/static/chunks/00-csyj9a6t-x.js","/zxr-blog.github.io/_next/static/chunks/13ku-_cxx5xux.js"],"default"]
+4:I[39229,["/zxr-blog.github.io/_next/static/chunks/17r9obcdvzia_.js","/zxr-blog.github.io/_next/static/chunks/0dsxp12~aigx8.js","/zxr-blog.github.io/_next/static/chunks/00-csyj9a6t-x.js","/zxr-blog.github.io/_next/static/chunks/13ku-_cxx5xux.js"],"default"]
+5:I[97367,["/zxr-blog.github.io/_next/static/chunks/17r9obcdvzia_.js","/zxr-blog.github.io/_next/static/chunks/0dsxp12~aigx8.js","/zxr-blog.github.io/_next/static/chunks/00-csyj9a6t-x.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen relative pb-20","children":[["$","$L2",null,{}],["$","$L3",null,{"children":["$","div",null,{"className":"mt-28","children":["$","$L4",null,{}]}]}]]}],[["$","script","script-0",{"src":"/zxr-blog.github.io/_next/static/chunks/13ku-_cxx5xux.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"KMCz4G4aP55EjW262d5kQ"}
+7:null
